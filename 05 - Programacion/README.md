@@ -1,3 +1,9 @@
+#### **Calculadora.jar > APP Calculadora con Interfaz Gráfica**
+<pre><font size="4">
+  - Calculadora con interfaz gráfica en Java
+  > Calificación				10
+</font></pre>
+
 #### **Reto 1 - Programa con Arrays Paralelos**
 <pre><font size="4">
   - Convesión de hexadecimal a decimal
@@ -37,11 +43,5 @@
 <pre><font size="4">
   - Programa de detección de Black SEO
   - Apertura y lectura de ficheros en Java
-  > Calificación				10
-</font></pre>
-
-#### **APP Calculadora con Interfaz Gráfica**
-<pre><font size="4">
-  - Calculadora con interfaz gráfica en Java
   > Calificación				10
 </font></pre>
