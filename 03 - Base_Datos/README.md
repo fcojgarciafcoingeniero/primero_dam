@@ -13,7 +13,7 @@
   > Calificación				10
 </font></pre>
 
-### **Reto 3 – Base de datos en MySQL**
+#### **Reto 3 – Base de datos en MySQL**
 <pre><font size="4">
   - Creación de tablas e inserts
   - Creación de Procedimientos, Jobs y Triggers
