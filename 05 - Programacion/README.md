@@ -1,22 +1,20 @@
-### **Reto 1 - Programa con Arrays Paralelos**
+#### **Reto 1 - Programa con Arrays Paralelos**
 <pre><font size="4">
-- Convesión de hexadecimal a decimal
-- Arrays Paralelos en Java
-> Calificación				10
+  - Convesión de hexadecimal a decimal
+  - Arrays Paralelos en Java
+ > Calificación				10
 </font></pre>
   
 #### **Reto 2 - Programa con Arrays Paralelos**
 <pre><font size="4">
-  - Creación de tablas e inserts
-  - Consultas y creación de vistas en SQL
-  - MySQL con phpMyAdmin
+  - Arrays Paralelos en Java
   > Calificación				10
 </font></pre>
 
 #### **Reto 3 - Excepciones**
 <pre><font size="4">
-  - Creación de tablas e inserts
-  - Creación de Procedimientos, Jobs y Triggers
+  - Programa de validación de formato de email
+  - Manejo de Excepciones en Java
   > Calificación				10
 </font></pre>
 
@@ -25,13 +23,10 @@
 
 
 
-Arrays Paralelos en Java
-Calificación				10
 
 
-Programa de validación de formato de email
-Manejo de Excepciones en Java
-Calificación				10
+
+
 
 
 
