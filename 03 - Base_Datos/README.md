@@ -1,4 +1,4 @@
-# **Reto 1 – Diseña tu base de datos**
+## **Reto 1 – Diseña tu base de datos**
   Diagrama entidad-relación
   Creación de tablas en SQLite
   Calificación				9,5
