@@ -12,8 +12,8 @@
             > css    --> contiene el style.css con los estilos aplicados al html (en index.php)
 </font></pre>
 
-- Enlace a vídeo de presentación:
-https://drive.google.com/file/d/1ReOsna_AjQgNw3vx1M3q7lrPqjRZQ9Fj/view?usp=sharing
+👉 [**Vídeo de presentación ↗️**](https://drive.google.com/file/d/1ReOsna_AjQgNw3vx1M3q7lrPqjRZQ9Fj/view?usp=sharing) *(Ctrl + Clic para abrir en otra pestaña)*
+
 
 ### 🌐 Despliegue en Servidor Real
 
