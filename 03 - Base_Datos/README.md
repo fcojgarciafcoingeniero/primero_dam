@@ -1,7 +1,7 @@
 ### **Reto 1 – Diseña tu base de datos**
-  Diagrama entidad-relación
-  Creación de tablas en SQLite
-  Calificación				9,5
+  - Diagrama entidad-relación
+  - Creación de tablas en SQLite
+  > Calificación				9,5
   
 ### **Reto 2 – Base de datos en MySQL**
   Creación de tablas e inserts
