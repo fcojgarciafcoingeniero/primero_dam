@@ -3,7 +3,7 @@
 <pre><font size="4">
   > granfondocartagena: carpeta con el contenido de todos los archivos del proyecto
   > Estructura interna:
-      - granfondo_cartagena.sql: archivo con código SQL empleado en la creación de la base de datos, tablas y usuarios en local en MySQL
+      - granfondo_cartagena.sql: código SQL empleado en la creación de la base de datos, tablas y usuarios en local en MySQL
       - Carpetas:
         > public/    --> contiene el index.php (inicio de la web)
         > config/    --> contiene el db.php (archivo de conexión a la BBDD)
