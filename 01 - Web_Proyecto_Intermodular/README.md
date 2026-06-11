@@ -3,7 +3,13 @@
 <pre><font size="4">
   > granfondocartagena: carpeta con el contenido de todos los archivos del proyecto
   > Estructura interna:
-      - : carpeta con el contenido de proyecto: HTML y CSS; página web estática
+      - granfondo_cartagena.sql: archivo con código SQL empleado en la creación de la base de datos, tablas y usuarios en local en MySQL
+      - Carpetas:
+        > public/    --> contiene el index.php (inicio de la web)
+        > config/    --> contiene el db.php (archivo de conexión a la BBDD)
+        > assets/    --> contiene:
+            > img    --> carpeta con las imágenes utilizadas en la Web.
+            > css    --> contiene el style.css con los estilos aplicados al html (en index.php)
 </font></pre>
 
 ### 🌐 Despliegue en Servidor Real
