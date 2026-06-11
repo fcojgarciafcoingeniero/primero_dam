@@ -5,7 +5,7 @@
 > Calificación				10
 </font></pre>
   
-### **Reto 2 - Programa con Arrays Paralelos**
+#### **Reto 2 - Programa con Arrays Paralelos**
 <pre><font size="4">
   - Creación de tablas e inserts
   - Consultas y creación de vistas en SQL
@@ -13,7 +13,7 @@
   > Calificación				10
 </font></pre>
 
-### **Reto 3 - Excepciones**
+#### **Reto 3 - Excepciones**
 <pre><font size="4">
   - Creación de tablas e inserts
   - Creación de Procedimientos, Jobs y Triggers
