@@ -1,6 +1,6 @@
 ### 🌐 Despliegue en Servidor Real
 
-👉 [**Visitar la web de Maserati aquí ↗️**](https://reto-optativo-lm-coches.netlify.app/) *(Usa Ctrl + Clic para abrir en otra pestaña)*
+👉 [**Visitar la web de aquí ↗️**](https://reto-optativo-lm-coches.netlify.app/) *(Ctrl + Clic para abrir en otra pestaña)*
 
 
 
