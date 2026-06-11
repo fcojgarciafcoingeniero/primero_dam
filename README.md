@@ -3,4 +3,5 @@ Portfolio con los trabajos y actividades de 1º de Técnico DAM en la Universida
 
 Acceso directo, clicando, a:
 
-> [00 - Curriculum_Vitae](/00 - Curriculum_Vitae)
+> [00 - Curriculum_Vitae](00 - Curriculum_Vitae/)
+> en [este enlace](src/).
