@@ -1,5 +1,19 @@
 # primero_dam
-**Portfolio** con los trabajos y actividades de **1º de Técnico DAM** en la Universidad Alfonso X El Sabio y CV completo
+**Portfolio** con los trabajos y actividades de:
+- **1º de Técnico Desarrollo de Aplicaciones Multiplataforma** por la Universidad Alfonso X El Sabio (UAX)
+- **1º Big Data e IA / 1º Cloud Computing** por la Universidad Alfonso X El Sabio (UAX) a través de la plataforma XTART
+
+**CV completo**
+
+
+Portfolio Desarrollo de Aplicaciones Multiplataforma / Big Data e Inteligencia Artificial / Cloud Computing
+
+Sobre mí
+Soy estudiante que ha finalizado el 1er curso de Técnico DAM en la Universidad Alfonso X El Sabio, con formación complementaria en Inteligencia Artificial, Big Data y Cloud Computing. Actualmente estoy en búsqueda de prácticas donde pueda aplicar mis conocimientos en desarrollo de software, bases de datos y transformación digital.
+
+
+Objetivo
+Mostrar mi evolución técnica, mi capacidad de aprendizaje y los proyectos desarrollados durante mi formación en DAM, junto con mis especializaciones en Big Data, Inteligencia Artificial y Cloud Computing.
 
 Acceso directo, clicando, a:
 
