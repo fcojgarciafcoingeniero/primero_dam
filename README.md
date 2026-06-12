@@ -1,9 +1,7 @@
 # primero_dam
-**Portfolio** con los trabajos y actividades de:
+**CV completo** y **Portfolio** con los trabajos y actividades de:
 - **1º de Técnico Desarrollo de Aplicaciones Multiplataforma** por la Universidad Alfonso X El Sabio (UAX)
 - **1º Big Data e IA / 1º Cloud Computing** por la Universidad Alfonso X El Sabio (UAX) a través de la plataforma XTART
-
-**CV completo**
 
 **Mis Datos**:
 - Francisco José García Franco.
