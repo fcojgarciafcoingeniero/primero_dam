@@ -5,17 +5,14 @@
 
 **CV completo**
 
+**Mis Datos**:
+- Francisco José García Franco.
+- Ingeniero industrial.
+- Bombero Profesional.
+- Actualmente cursando el Grado Superior de Técnico DAM en la UAX, habiendo finalizado el primer curso con nota media de 10.
+- Cursando formación complementaria en Inteligencia Artificial, Big Data y Cloud Computing.
 
-Portfolio Desarrollo de Aplicaciones Multiplataforma / Big Data e Inteligencia Artificial / Cloud Computing
-
-Sobre mí
-Soy estudiante que ha finalizado el 1er curso de Técnico DAM en la Universidad Alfonso X El Sabio, con formación complementaria en Inteligencia Artificial, Big Data y Cloud Computing. Actualmente estoy en búsqueda de prácticas donde pueda aplicar mis conocimientos en desarrollo de software, bases de datos y transformación digital.
-
-
-Objetivo
-Mostrar mi evolución técnica, mi capacidad de aprendizaje y los proyectos desarrollados durante mi formación en DAM, junto con mis especializaciones en Big Data, Inteligencia Artificial y Cloud Computing.
-
-Acceso directo, clicando, a:
+**Accesos directos**, clicando, a:
 
 - [Currículum Vitae](00%20-%20Curriculum_Vitae/)
 - [01 - Web_Proyecto_Intermodular](01%20-%20Web_Proyecto_Intermodular/)
