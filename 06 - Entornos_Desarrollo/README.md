@@ -6,13 +6,37 @@
   > Calificación				10
 </font></pre>
 
-#### **Reto 1 - Programa con Arrays Paralelos**
+#### **Reto 1 - Programa de operaciones aritméticas**
 <pre><font size="4">
-  - Convesión de hexadecimal a decimal
-  - Arrays Paralelos en Java
+  - Python
+  - Con inputs, operaciones matemáticas, bucles y control de errores
   > Calificación				10
 </font></pre>
-  
+
+#### **Reto 2 - Programación POO de personaje de videojuego**
+<pre><font size="4">
+  - Python
+  - POO, clases, atributos y métodos
+  > Calificación				9,5
+</font></pre>
+
+#### **Reto 3 - Pgina Web con Streamlit en Python**
+<pre><font size="4">
+  - Streamlit EN Python para generar página web y sus elementos
+  > Calificación				10
+</font></pre>
+
+
+
+Calificación				10
+Actividad – Web App – Planificador de entrenamiento 
+Python y Streamlit
+Con Widgets y elementos multimedia
+
+
+
+
+
 #### **Reto 2 - Programa con Arrays Paralelos**
 <pre><font size="4">
   - Arrays Paralelos en Java
