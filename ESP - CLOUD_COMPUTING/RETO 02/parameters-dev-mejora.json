@@ -1,0 +1,38 @@
+[
+  {
+    "ParameterKey": "ProjectName",
+    "ParameterValue": "iaclab"
+  },
+  {
+    "ParameterKey": "Environment",
+    "ParameterValue": "dev"
+  },
+  {
+    "ParameterKey": "OrganizationUnit",
+    "ParameterValue": "infra"
+  },
+  {
+    "ParameterKey": "VpcCidr",
+    "ParameterValue": "10.20.0.0/16"
+  },
+  {
+    "ParameterKey": "PublicSubnetCidr",
+    "ParameterValue": "10.20.1.0/24"
+  },
+  {
+    "ParameterKey": "AllowedHttpCidr",
+    "ParameterValue": "0.0.0.0/0"
+  },
+  {
+    "ParameterKey": "Owner",
+    "ParameterValue": "alumno"
+  },
+  {
+    "ParameterKey": "CostCenter",
+    "ParameterValue": "training"
+  },
+  {
+    "ParameterKey": "EnableBucketVersioning",
+    "ParameterValue": "true"
+  }
+]
