@@ -3,6 +3,7 @@
 #### **Contenido**
 <pre><font size="4">
   > granfondocartagena: carpeta con el contenido de todos los archivos del proyecto
+  > Diploma-Proyecto_Intermodular_1_DAM-Francisco_Jose_Garcia_Franco.pdf
   > Estructura interna:
       - granfondo_cartagena.sql: código SQL empleado en la creación de la base de datos, tablas y usuarios en local en MySQL
       - Carpetas:
