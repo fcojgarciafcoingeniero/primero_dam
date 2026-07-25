@@ -5,7 +5,7 @@
   - En Python
   - Arquitectura en Capas
   - Contenido: 
-    > Carpeta **IncidenciaTickets** con los archivos de la app
+    > Carpeta <b>IncidenciaTickets</b> con los archivos de la app
     > Archivos PDF con código, explicación detallada y muestras de funcionamiento
 	    (versiones para pantalla y para impresión)
   - Apuntes de la sesión
