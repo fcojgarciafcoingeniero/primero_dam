@@ -1,9 +1,12 @@
 #### ***CLASE EXPERIENCIAL DE LA ASIGNATURA ENTORNOS DE DESARROLLO***
 
-#### **Reto 1 - Programa de operaciones aritméticas**
+#### **App para gestión de incidencias**
 <pre><font size="4">
-  - Contenido: pdf con enunciado y resolución + archivo de código
-  - Python
-  - Con inputs, operaciones matemáticas, bucles y control de errores
-  > Calificación				10
+  - En Python
+  - Arquitectura en Capas
+  - Contenido: 
+    > Carpeta IncidenciaTickets con los archivos de la app
+    > Archivos PDF con código, explicación detallada y muestras de funcionamiento
+	    (versiones para pantalla y para impresión)
+  - Apuntes de la sesión
 </font></pre>
