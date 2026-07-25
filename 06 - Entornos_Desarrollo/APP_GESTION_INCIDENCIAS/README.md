@@ -4,7 +4,7 @@
 <pre><font size="4">
   - En <b>Python</b>
   - Con <b>base de datos embebida</b> en <b>SQLite</b>
-  - Arquitectura en Capas
+  - <b>Arquitectura en Capas</b>
   - Contenido: 
     > Carpeta <b>IncidenciaTickets</b> con los archivos de la app
     > Archivos PDF con código, explicación detallada y muestras de funcionamiento
