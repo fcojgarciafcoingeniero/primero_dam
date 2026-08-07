@@ -1,6 +1,6 @@
 #### ***TAREAS/RETOS DE LA ASIGNATURA ENTORNOS DE DESARROLLO***
 
-#### APP DE GESTION DE INCIDENCIAS**
+#### **APP DE GESTION DE INCIDENCIAS**
 <pre><font size="4">
   - Contenido: códigos (.py y .css), documentación detallasa con enunciado y resolución
   - Python, Streamlit, CSS.
