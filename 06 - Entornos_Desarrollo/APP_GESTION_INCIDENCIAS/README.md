@@ -6,11 +6,11 @@
   Con <b>base de datos embebida</b> en <b>SQLite</b>
   <b>Arquitectura en Capas</b>
 	
-  - Carpeta <b>"VERSION 1"</b>, de la app vista en Sesión Experiencial y mejorada: 
+  - Carpeta <b>"VERSION_1"</b>, de la app vista en Sesión Experiencial y mejorada: 
     > Carpeta <b>IncidenciaTickets_V1</b>: todos los archivos de la app
-  - Carpeta <b>"VERSION 2"</b>, de la app mejorada con interfaz gráfica (Streamlit + CSS): 
+  - Carpeta <b>"VERSION_2"</b>, de la app mejorada con interfaz gráfica (Streamlit + CSS): 
     > Carpeta <b>IncidenciaTickets_V2</b>: todos los archivos de la app
-  - Carpeta <b>"VERSION 3"</b>, de la app con interfaz gráfica (Streamlit + CSS):
+  - Carpeta <b>"VERSION_3"</b>, de la app con interfaz gráfica (Streamlit + CSS):
 		- Archivos adicionales para compilar un ejecutable.
 		- Archivo ejecutable para Windows (.exe) 
     > Carpeta <b>IncidenciaTickets_V3</b>: todos los archivos de la app + los archivos para automatizar la compilación
