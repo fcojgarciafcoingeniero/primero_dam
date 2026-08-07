@@ -2,7 +2,7 @@
 
 #### **App para gestión de incidencias**
 <pre><font size="4">
-  - En <b>Python</b>
+  - En <b>Python</b>, con <b>Streamlit</b>
   - Con <b>base de datos embebida</b> en <b>SQLite</b>
   - <b>Arquitectura en Capas</b>
   - Contenido: 
