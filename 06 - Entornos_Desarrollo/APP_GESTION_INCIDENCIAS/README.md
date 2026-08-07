@@ -2,9 +2,10 @@
 
 #### **App para gestión de incidencias**
 <pre><font size="4">
-  - En <b>Python</b>, con <b>Streamlit</b>
-  - Con <b>base de datos embebida</b> en <b>SQLite</b>
-  - <b>Arquitectura en Capas</b>
+  En <b>Python</b>, con <b>Streamlit</b>
+  Con <b>base de datos embebida</b> en <b>SQLite</b>
+  <b>Arquitectura en Capas</b>
+	
   - Carpeta <b>"VERSION 1"</b>, de la app vista en Sesión Experiencial y mejorada: 
     > Carpeta <b>IncidenciaTickets_V1</b>: todos los archivos de la app
   - Carpeta <b>"VERSION 2"</b>, de la app mejorada con interfaz gráfica (Streamlit + CSS): 
