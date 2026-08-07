@@ -1,5 +1,12 @@
 #### ***TAREAS/RETOS DE LA ASIGNATURA ENTORNOS DE DESARROLLO***
 
+#### APP DE GESTION DE INCIDENCIAS**
+<pre><font size="4">
+  - Contenido: códigos (.py y .css), documentación detallasa con enunciado y resolución
+  - Python, Streamlit, CSS.
+  - Versión básica, versión con interfaz gráfica y ejecutable (.exe)
+</font></pre>
+
 #### **Reto 1 - Programa de operaciones aritméticas**
 <pre><font size="4">
   - Contenido: pdf con enunciado y resolución + archivo de código
