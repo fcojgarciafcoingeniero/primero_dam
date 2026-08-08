@@ -45,7 +45,21 @@ if __name__ == '__main__':
     ######################################################
     # Se pasa la ruta absoluta al motor de Streamlit
     # Simula la lectura de comando desde la terminal "streamlit run [ruta_absoluta]"
-    sys.argv = ["streamlit", "run", ruta_script, "--global.developmentMode=false"]
+    sys.argv = [
+        "streamlit",
+        "run",
+        ruta_script,
+        # Oculta el botón de "Deploy" y las herramientas de desarrollador
+        "--global.developmentMode=false",
+
+        # Arranque de Streamlit en "modo máquina" y
+        # que se salte cualquier tipo de bienvenida o recolección de estadísticas
+
+        # Prohíbe a Streamlit recopilar datos de uso, lo que desactiva inmediatamente el mensaje del correo electrónico
+        "--browser.gatherUsageStats=false",
+        # Indica a Streamlit que se está ejecutando como un servidor de fondo sin pantalla de terminal interactiva, evitando que se quede esperando respuestas del teclado.
+        # "--server.headless=true"
+    ]
     # stcli.main(): coge esas instrucciones y arranca el servidor de Streamlit
     # sys.exit: asegura liberación de memoria y cerrado del .exe al cerrar la ventana de la app
     sys.exit(stcli.main())
