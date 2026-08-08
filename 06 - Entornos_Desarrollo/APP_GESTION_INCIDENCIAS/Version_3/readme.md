@@ -11,7 +11,7 @@
           - <b>requeriments.txt</b>, con las librerías a instalar por el IDE para el entorno del proyecto
       > Para generar un ejecutable > ejecutar <b>"compilar.py"</b> > se guardará en la carpeta <b>"dist"</b>
   
-  - 📥 [Descargar Gestor de Incidencias V2 (.zip)](Aquí-pegas-el-enlace-que-has-copiado) > 
+  - 📥 [Descargar Gestor de Incidencias V2 (.zip)](https://github.com/fcojgarciafcoingeniero/primero_dam_portfolio/releases/download/v2/launch_gestion_incidencias.zip) > 
     Archivo comprimido <b>"launch_gestion_incidencias.zip"</b> para distribución:    
       > Contienen ejecutable > <b>"launch_gestion_incidencias.exe"</b> 
       > <b>INSTRUCCIONES</b>:
