@@ -20,3 +20,6 @@
           - Elegir <b>"Más información"</b> > > <b>"Ejecutar de todas formas"</b> en caso de advertencia de Windows o del antivirus.
           - Después de ejecutar por primera vez, se crea automáticamente la base de datos local <b>"gestionIncidencias.db"</b>en la misma carpeta.
 </font></pre>
+Aquí un texto normal para separar.
+
+[Descargar Gestor de Incidencias V2 (.zip)](https://github.com/fcojgarciafcoingeniero/primero_dam_portfolio/releases/download/v2/launch_gestion_incidencias.zip)
