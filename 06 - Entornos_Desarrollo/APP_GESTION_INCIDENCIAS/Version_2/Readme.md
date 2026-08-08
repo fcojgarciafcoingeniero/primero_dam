@@ -5,7 +5,7 @@
   Con <b>Python</b> y <b>Streamlit</b>
   <b>Base de datos embebida</b> en <b>SQLite</b>
 
-  <b>Punto de entrada/ejecución</b> > <b>gestion_incidencias.py</b> de pruebas mejorado respecto a la clase experiencial
+  <b>Punto de entrada/ejecución</b> > <b>gestion_incidencias.py</b> > arranca el servidor y la interfaz gráfica
 
   
 </font></pre>
