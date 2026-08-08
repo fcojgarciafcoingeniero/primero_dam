@@ -10,9 +10,9 @@
           - Código (.py, .css)
           - <b>requeriments.txt</b>, con las librerías a instalar por el IDE para el entorno del proyecto
       > Para generar un ejecutable > ejecutar <b>"compilar.py"</b> > se guardará en la carpeta <b>"dist"</b>
-  
-  - 📥 [Descargar Gestor de Incidencias V2 (.zip)](https://github.com/fcojgarciafcoingeniero/primero_dam_portfolio/releases/download/v2/launch_gestion_incidencias.zip) > 
-    Archivo comprimido <b>"launch_gestion_incidencias.zip"</b> para distribución:    
+
+
+  - Clic abajo para descargar > Archivo comprimido <b>"launch_gestion_incidencias.zip"</b> para distribución:    
       > Contienen ejecutable > <b>"launch_gestion_incidencias.exe"</b> 
       > <b>INSTRUCCIONES</b>:
           - Descargar el <b>.zip</b>
@@ -20,6 +20,4 @@
           - Elegir <b>"Más información"</b> > > <b>"Ejecutar de todas formas"</b> en caso de advertencia de Windows o del antivirus.
           - Después de ejecutar por primera vez, se crea automáticamente la base de datos local <b>"gestionIncidencias.db"</b>en la misma carpeta.
 </font></pre>
-Aquí un texto normal para separar.
-
 [Descargar Gestor de Incidencias V2 (.zip)](https://github.com/fcojgarciafcoingeniero/primero_dam_portfolio/releases/download/v2/launch_gestion_incidencias.zip)
