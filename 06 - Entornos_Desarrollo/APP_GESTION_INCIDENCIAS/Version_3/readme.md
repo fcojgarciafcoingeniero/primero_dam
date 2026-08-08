@@ -8,7 +8,7 @@
   - Carpeta <b>"IncidenciaTickets_V3"</b>:
       > Todos los archivos de la app:
           - Código (.py, .css)
-      > <b>requeriments.txt</b>, con las librerías a instalar por el IDE para el entorno del proyecto
+          - <b>requeriments.txt</b>, con las librerías a instalar por el IDE para el entorno del proyecto
       > Para generar un ejecutable > ejecutar <b>"compilar.py"</b> > se guardará en la carpeta <b>"dist"</b>
   
   - Archivo comprimido <b>"launch_gestion_incidencias.zip"</b> para distribución:    
