@@ -1,4 +1,4 @@
-#### **App para gestión de incidencias**
+#### **App para gestión de incidencias > EJECUTABLE .EXE**
 <pre><font size="4">
   Con <b>Interfaz Gráfica</b> mediante <b>Streamlit</b> mejorada con <b>CSS</b>
   <b>Arquitectura en Capas</b>
