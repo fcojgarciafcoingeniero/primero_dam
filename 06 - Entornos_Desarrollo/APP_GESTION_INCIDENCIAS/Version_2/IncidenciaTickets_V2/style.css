@@ -1,0 +1,152 @@
+/* !important: da prioridad a la orden en la jerarquía CSS para
+   evitar que Streamlit las sobreescriba con las suyas*/
+
+/* =========================================
+   1. FONDO GENERAL Y LIMPIEZA
+   ========================================= */
+   /*   #root: contenedor principal
+        .stApp: caja gigante donde Streamlit dibuja la app */
+html body div#root div.stApp {
+    background-color: #c8d6e5 !important;
+}
+
+/* Ocultar la barra superior (Deploy, menú) */
+
+    /* header[data-testid="stHeader"]: apunta a la barra superior que Streamlit genera por defecto.*/
+html body div#root div.stApp header[data-testid="stHeader"] {
+    display: none !important;
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* =========================================
+   2. CONTENEDOR CENTRAL
+   ========================================= */
+   /* El contenedor central toma un nombre u otro según la versión:
+      block-container
+      stMainBlockContainer */
+html body div#root div.stApp div.main div.block-container,
+html body div#root div.stApp div[data-testid="stMainBlockContainer"] {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 1.5rem 3rem 3rem 3rem !important;
+    margin-top: -0.5rem !important; /* Se empuja arriba para llenar el hueco dejado */
+    max-width: none !important;
+}
+
+/* =========================================
+   3. TÍTULO EN RECUADRO INDEPENDIENTE
+   ========================================= */
+
+   /* En Python con Streamlit, la función st.title genera una etiqueta <h1>
+      Aquí se apunta a esa etiqueta <h1> */
+html body div#root div.stApp h1 {
+    color: #0f172a !important;
+    font-weight: 700 !important;
+    background-color: #f1f5f9 !important;
+    border: 1px solid #64748b !important;
+    padding: 1.5rem 2rem !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05) !important;
+    margin-bottom: 0.5rem !important;
+    margin-top: 0.5rem !important;
+}
+
+/* Líneas separadoras
+    Busca todas las líneas separadoras dentro de la app (.stApp) */
+html body div#root div.stApp hr {
+    border: none !important;
+    height: 3px !important;
+    background-color: #64748b !important;
+    margin-top: 1.5rem !important;
+    margin-bottom: 2.5rem !important;
+}
+
+/* =========================================
+   4. RECUADRO GIGANTE DE CONTENIDO (La "Carpeta")
+   ========================================= */
+/* 1. Limpieza de cualquier margen residual del ancla invisible
+   element-container es el contenedor tipo que Streamlit pone a cada elemento
+   has() busca dentro del elemento el que tiene el marcador indicado #recuadro-principal */
+div.element-container:has(#recuadro-principal) {
+    display: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* 2. Tirón del recuadro hacia arriba para cerrar el hueco
+   Busca el bloque vertical que contienen ese elemento contenedor a mover arriba */
+div[data-testid="stVerticalBlock"]:has(> div.element-container #recuadro-principal) {
+    background-color: #f1f5f9 !important;
+    border: 1px solid #64748b !important;
+    border-radius: 0 8px 8px 8px !important;
+    padding: 2.5rem !important;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05) !important;
+    position: relative !important;
+    z-index: 1 !important;
+
+    /* ¡MODIFICAR los px para mover la caja a la altura estéticamente adecuada! */
+    margin-top: -38px !important;
+}
+
+/* =========================================
+   5. INPUTS, BOTONES Y FORMULARIOS (Internos)
+   ========================================= */
+  /* Selecciona todos los formularios */
+html body div#root div.stApp div[data-testid="stForm"] {
+    border: 1px solid #cbd5e1 !important;
+    border-radius: 10px !important;
+    padding: 1.5rem !important;
+    background-color: #e2e8f0 !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05) !important;
+}
+  /* Selecciona todas las cajas de texto */
+html body div#root div.stApp .stTextInput input,
+html body div#root div.stApp .stTextArea textarea,
+html body div#root div.stApp .stSelectbox div[data-baseweb="select"] {
+    border-radius: 6px !important;
+    border: 1px solid #cbd5e1 !important;
+    background-color: #ffffff !important;
+}
+/* Resalta la casilla en que se está escribiendo */
+html body div#root div.stApp .stTextInput input:focus,
+html body div#root div.stApp .stTextArea textarea:focus {
+    border-color: #3b82f6 !important;
+    box-shadow: 0 0 0 1px #3b82f6 !important;
+}
+
+/* Botones secundarios
+   div.stButton > button busca la caja que contiene el botón
+   y le aplica el formato al botón en si, que está dentro de la caja */
+html body div#root div.stApp div.stButton > button {
+    background-color: #e2e8f0 !important;
+    color: #0f172a !important;
+    border: 1px solid #94a3b8 !important;
+    border-radius: 6px !important;
+    transition: all 0.2s ease !important;
+}
+
+html body div#root div.stApp div.stButton > button:hover {
+    background-color: #cbd5e1 !important;
+    border-color: #64748b !important;
+}
+
+/* Botón primario (Formularios)
+   Aplica a los botones del tipo formulario
+   y a los marcados en el código Python como type="primary" */
+html body div#root div.stApp div.stFormSubmitButton > button,
+html body div#root div.stApp button[kind="primary"] {
+    background-color: #3b82f6 !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 6px !important;
+    font-weight: 500 !important;
+}
+
+html body div#root div.stApp div.stFormSubmitButton > button:hover,
+html body div#root div.stApp button[kind="primary"]:hover {
+    background-color: #2563eb !important;
+    color: white !important;
+}
