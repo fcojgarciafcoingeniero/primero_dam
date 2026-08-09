@@ -67,22 +67,30 @@ def dialog_confirmar_baja(id_tecnico, nombre_tecnico):
         if st.button("NO, cancelar", width="stretch"):
             st.rerun() # Re-ejecución de todo el script de Python
 
-        # ==========================================
 
-
+# ==========================================
 # 3. CARGA DEL ARCHIVO CSS PERSONALIZADO
 # ==========================================
 
 # Definición de una función para llevar a cabo la carga del archivo
 def load_local_css(file_name):
+    # Cálculo de la ruta absoluta dependiendo de si es un .exe o un script normal
+    if getattr(sys, 'frozen', False):
+        carpeta_base = sys._MEIPASS
+    else:
+        carpeta_base = os.path.dirname(os.path.abspath(__file__))
+
+    # Unión de la ruta base con el nombre del archivo CSS
+    ruta_css = os.path.join(carpeta_base, file_name)
+
     try:
         # Apertura y solo lectura del archivo; guardado en una variable del texto contenido
-        with open(obtener_ruta(file_name), "r", encoding="utf-8") as f:
+        with open(ruta_css, "r", encoding="utf-8") as f:
         # markdown carga el texto en la página entre las etiquetas <style>
             st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
     # Manejo de error en caso de no encontrar el archivo
     except FileNotFoundError:
-        st.warning(f"No se encontró el archivo '{file_name}'.")
+        st.warning(f"No se encontró el archivo CSS en: {ruta_css}")
 
 # Ejecución de la función para cargar el archivo (pasado como parámetro)
 load_local_css("style.css")
